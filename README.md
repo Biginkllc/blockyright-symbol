@@ -50,4 +50,3 @@ As the ecosystem grows, this repo can:
 - include more examples
 - link to live projects using the blockyright mark
 - connect with Web3tionary and other IFAM/BIGINKDOT initiatives
-
