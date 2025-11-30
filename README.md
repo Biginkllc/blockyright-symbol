@@ -1,4 +1,17 @@
 # blockyright Symbol (v0.1)
+## Blockyright Primary Symbol (v0.1)
+
+This is the official primary black-and-white blockyright mark used for:
+
+- documentation
+- project provenance
+- digital works
+- parables
+- UD banners
+- watermarking
+- GitHub repositories
+
+![blockyright primary symbol](logo/black-and-white/blockyright_primary_v0.1.png)
 
 **blockyright** is a Web3-native provenance mark for creative works, ideas, protocols, and projects that are timestamped and/or hashed on a public blockchain.
 
